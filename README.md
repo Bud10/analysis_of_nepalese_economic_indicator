@@ -16,7 +16,7 @@ The project includes a Jupyter notebook for visualizing and analyzing the data a
 Datasets:
 
     summary-of-macro-economic-indicators.csv
-    This dataset contains summarized macro-economic indicators for the entire period of 2000-2021. It includes various economic variables like GDP, inflation rates, unemployment rates, and more.
+    This dataset contains summarized macro-economic indicators for the entire period of 2000-2018. It includes various economic variables like GDP, inflation rates, unemployment rates, and more.
 
     summary-of-macro-economic-indicators_2012-2021table06.csv
     This dataset contains a more detailed summary of macro-economic indicators from 2012 to 2021, which can be used for more specific trend analysis during this period.
